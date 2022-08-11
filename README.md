@@ -13,7 +13,7 @@ Myth will make coding more fun, and it also comes with a dark mode to save your 
 
 ```bash
 1. Extensions ‣ Search for 'Myth Theme' ‣ Install
-2. Command Palette ‣ Monokai Pro: select theme
+2. Command Palette ‣ Myth Theme: select theme
 ```
 
 How pretty:
