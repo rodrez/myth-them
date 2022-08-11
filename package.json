@@ -1,0 +1,21 @@
+{
+  "name": "myth-theme",
+  "displayName": "myth-theme",
+  "description": "Myth theme like monokai but sexier.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Myth Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Myth Theme-color-theme.json"
+      }
+    ]
+  }
+}
