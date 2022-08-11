@@ -17,4 +17,19 @@ Myth will make coding more fun, and it also comes with a dark mode to save your 
 ```
 
 How pretty:
+
+### Javascript
+
 ![myth](./images/myth.png "Awesome Myths")
+
+### Typescript
+
+![myth](./images/typescript.png "Awesome Myths")
+
+### Rust
+
+![myth](./images/rust.png "Awesome Myths")
+
+### Python
+
+![myth](./images/python.png "Awesome Myths")
