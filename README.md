@@ -1,16 +1,20 @@
-# myth-theme README
+# Myth Theme
 
-## Working with Markdown
+------------
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Awesome Theme for awesome people
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Myth Theme is an awesome VS Code theme for the awesome community! It's lovable, it's breath-taking, it's the most powerful theme ever created!
+Myth theme is blazingly awesome! Monakai younger, sexier brother😉😉.
 
-## For more information
+Myth will make coding more fun, and it also comes with a dark mode to save your eyes at night.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+➡️ How to install MYTH for Visual Studio Code:
 
-**Enjoy!**
+```bash
+1. Extensions ‣ Search for 'Myth Theme' ‣ Install
+2. Command Palette ‣ Monokai Pro: select theme
+```
+
+How pretty:
+![myth](./images/myth.png "Awesome Myths")
