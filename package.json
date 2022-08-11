@@ -4,7 +4,8 @@
   "description": "Myth theme, like monokai but sexier.",
   "repository": "https://github.com/rodrez/myth-them",
   "publisher": "rodrez",
-  "version": "0.0.1",
+  "icon": "images/MythLogo.png",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.70.0"
   },
